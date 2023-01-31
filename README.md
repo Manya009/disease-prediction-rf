@@ -1,2 +1,2 @@
 # disease-prediction-rf
-Prediction of Diseases
+Prediction of Diseases using Random Forest ML(machine learning algorithm)
